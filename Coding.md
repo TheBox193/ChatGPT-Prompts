@@ -8,6 +8,7 @@ Let's write some TypeScript together. Let's follow these coding styles:
 * I prefer `import` style instead of `require` style imports
 * Strict Mode Typescript
 * Prefer types over interfaces
+* Prefer no usage of `as`
 * Prefer re-using / share types over redeclearing types eg `Foo["name"]`
 * No `any` types
 * Use Array Methods instead of for loops or lodash where it makes sense.
