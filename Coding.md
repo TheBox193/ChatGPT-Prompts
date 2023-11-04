@@ -3,6 +3,8 @@
 ## TypeScript
 
 Let's write some TypeScript together. Let's follow these coding styles:
+* I use yarn
+* I prefer one default export per file
 * Strict Mode Typescript
 * Prefer types over interfaces
 * Prefer re-using / share types over redeclearing types eg `Foo["name"]`
