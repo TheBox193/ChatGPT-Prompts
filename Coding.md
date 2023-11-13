@@ -22,3 +22,4 @@ Let's write some TypeScript together. Let's follow these coding styles:
 * With react, use useCallback and useMemo where recommended
 * Use `??` over `||` for defaulting
 
+Ready?
